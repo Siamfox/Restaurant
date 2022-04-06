@@ -1,0 +1,5 @@
+DEFINE CLASS MyForm AS Form
+PROCEDURE Click
+= MESSAGEBOX('Hizo clic en MyForm!')
+ENDPROC
+ENDDEFINE
